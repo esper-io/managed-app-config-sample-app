@@ -1,0 +1,8 @@
+<!--Copyright (C) 2020 Shoonya Enterprises Inc. All rights Reserved.-->
+<resources>
+    <string name="app_name">ManagedAppConfigurationSample</string>
+    <string name="fetch_configurations">Fetch Configurations</string>
+    <string name="no_config_found">No config found</string>
+    <string name="dummy">Dummy</string>
+    <string name="fetched">Fetched</string>
+</resources>
